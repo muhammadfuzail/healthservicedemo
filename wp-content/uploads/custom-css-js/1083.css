@@ -1,0 +1,29 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+.wpcf7 input[type="email"]{
+	background-color: #EFF7F8;
+	border-radius: 11px;
+	font: normal normal 300 14px/17px Montserrat;
+	letter-spacing: 0.71px;
+	color: #AEAEAE;
+}
+.wpcf7 input[type="submit"]{
+	background: #008CA1 0% 0% no-repeat padding-box;
+	border-radius: 11px;
+	width:100%;
+	font: normal normal 600 14px/17px Montserrat;
+	letter-spacing: 0.71px;
+	color: #FFFFFF;
+}
+</style>
+<!-- end Simple Custom CSS and JS -->
