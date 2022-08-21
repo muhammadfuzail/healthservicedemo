@@ -25,5 +25,29 @@ End of comment */
 	letter-spacing: 0.71px;
 	color: #FFFFFF;
 }
+/* form 2 css */
+.wpcf7 .f2_name{
+	background-color: #EFF7F8;
+	border-radius: 11px;
+	font: normal normal 300 14px/17px Montserrat;
+	letter-spacing: 0.71px;
+	color: #AEAEAE;
+	margin-bottom:29px;
+}
+.wpcf7 .contact{
+	background-color: #EFF7F8;
+	border-radius: 11px;
+	font: normal normal 300 14px/17px Montserrat;
+	letter-spacing: 0.71px;
+	color: #AEAEAE;
+	margin-bottom:29px;
+}
+
+.wpcf7 .f2_availability{
+	display: flex;
+	font-family: montserrat;
+	font-size: 14px;
+}
+
 </style>
 <!-- end Simple Custom CSS and JS -->
